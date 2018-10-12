@@ -13,6 +13,10 @@
 		<meta name="keywords" content="keyword 1, keyword 2, keyword 3">
 		<meta name="robots" content="noindex" />
 
+		<!-- Hreflang  -->
+		<link rel="alternate" href="http://example.com/" hreflang="x-default" />
+		<link rel="alternate" href="http://example.com/pt" hreflang="pt" />
+
 		<!-- Copy Rights -->
 		<meta name="author" content="Business Name">
 		<meta name="dcterms.rights" content="© Business Name. All rights reserved">
@@ -48,6 +52,16 @@
 
 		<!-- Manifest -->
 		<link rel="manifest" href="manifest.json">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxxxxxxx-x"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-xxxxxxxx-x');
+		</script>
 
 	</head>
 	<body>
