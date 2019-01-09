@@ -7,7 +7,6 @@ Github:				https://github.com/NunoBentes
 Location:			Carvoeiro, Algarve - Portugal.
 
 
-
 /**
  * SITE
  */
