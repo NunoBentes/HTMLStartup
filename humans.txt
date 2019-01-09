@@ -2,16 +2,16 @@
  * TEAM 
  */
 
-Name:				Nuno Bentes.
-Github:				https://github.com/NunoBentes             
-Location:			Carvoeiro, Algarve - Portugal.
+Name:					Nuno Bentes.
+Github:					https://github.com/NunoBentes             
+Location:				Carvoeiro, Algarve - Portugal.
 
 
 /**
  * SITE
  */
 
-Last update:		YYYY/MM/DD                      
-Standards:			HTML5            
-Libraries:			jQuery             
-IDE:				Visual Studio Code
+Last update:			YYYY/MM/DD                      
+Standards:				HTML5            
+Libraries:				jQuery             
+IDE:					Visual Studio Code
