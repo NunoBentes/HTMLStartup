@@ -11,7 +11,7 @@ Location:				Carvoeiro, Algarve - Portugal.
  * SITE
  */
 
-Last update:			YYYY/MM/DD                      
+Last update:				YYYY/MM/DD                      
 Standards:				HTML5            
 Libraries:				jQuery             
 IDE:					Visual Studio Code
