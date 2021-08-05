@@ -1,5 +1,9 @@
-# For more information about robots.txt, please visit 
+# For more information about robots.txt, please visit:
 # http://www.robotstxt.org/robotstxt.html
+# https://moz.com/learn/seo/robotstxt
+# https://www.seobility.net/en/wiki/Robots.txt
 
 User-agent: *
 Disallow:
+
+Sitemap: https://www.example.com/sitemap.xml
