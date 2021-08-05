@@ -1,5 +1,5 @@
 /**
- * TEAM 
+ * Team
  */
 
 Name: Nuno Bentes.
@@ -8,7 +8,7 @@ Location: Carvoeiro, Algarve - Portugal.
 
 
 /**
- * SITE
+ * Site information
  */
 
 Last update: YYYY/MM/DD                      
