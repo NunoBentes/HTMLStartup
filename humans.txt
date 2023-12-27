@@ -2,7 +2,7 @@
  * Team
  */
 
-Name: Nuno Bentes..
+Name: Nuno Bentes
 Github: https://github.com/NunoBentes             
 Location: Carvoeiro, Algarve - Portugal.
 
