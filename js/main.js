@@ -1,3 +1,3 @@
 /**
- * Your Main Javacript
+ * Your Main Scripts file
  */
