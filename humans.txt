@@ -3,8 +3,9 @@
  */
 
 Name: Nuno Bentes
+Location: Carvoeiro, Algarve - Portugal
 Github: https://github.com/NunoBentes             
-Location: Carvoeiro, Algarve - Portugal.
+Instagram: @bentesnuno
 
 
 /**
@@ -12,6 +13,6 @@ Location: Carvoeiro, Algarve - Portugal.
  */
 
 Last update: YYYY/MM/DD                      
-Standards: HTML5            
-Libraries: jQuery             
+Standards: HTML5, CSS3           
+Components: ECMA Script 6
 IDE: Visual Studio Code
